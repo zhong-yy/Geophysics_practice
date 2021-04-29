@@ -1,6 +1,6 @@
 ## 2D magnetotelluric modelling using finite element method and rectilinear grid
 
-It was a practice done in an undergraduate coursework.
+It was a practice done in an undergraduate coursework in 2016.
 
 ### Key files
 
