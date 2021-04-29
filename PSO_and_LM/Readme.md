@@ -1,4 +1,4 @@
-Two optimization algorithm for nonlinear problems.
+Two optimization algorithm for nonlinear problems. It was my coursework in an postgraduate course.
 
 ## Function Files
 
