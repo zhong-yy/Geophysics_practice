@@ -4,7 +4,7 @@ Yiyuan Zhong
 
 **Description**
 
-It was a practice done in an undergraduate coursework in 2016.
+It was from one of my undergraduate courseworks in 2016.
 
 ### Key files
 
