@@ -1,2 +1,2 @@
 # Geophysics_practice
-Some practice I've done on geophysics modelling and inversion.
+Some exercises I've done in couses of geophysics modelling and inversion.
