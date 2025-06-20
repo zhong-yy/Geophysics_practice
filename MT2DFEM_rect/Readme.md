@@ -2,10 +2,6 @@
 
 Yiyuan Zhong
 
-**Description**
-
-It was from my undergraduate coursework in 2016.
-
 ### Key files
 
 - **MT2D_FEM_BILINEAR_TE.m** TE mode, bilinear interpolation
